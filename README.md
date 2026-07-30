@@ -99,8 +99,8 @@ projects/
 
 ## 🚀 Connect With Me
 
-- LinkedIn: *(Add your LinkedIn profile link here)*
-- Portfolio: *(Add your portfolio link here when available)*
+- LinkedIn: *(www.linkedin.com/in/rishi-mohite-b71999271)*
+- Portfolio: *(https://www.linkedin.com/safety/go/?url=https%3A%2F%2Frishi-portfolio-rosy.vercel.app)*
 
 ---
 
